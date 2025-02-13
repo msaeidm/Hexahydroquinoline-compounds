@@ -14,5 +14,5 @@ This repository contains the code, data, and documentation for our study evaluat
 4. **Molecular Docking:**  
    Parse and visualize docking results of the compounds with the target enzyme (ENR) using AutoDock Vina outputs.
 
-## Repository Structure
+
 
