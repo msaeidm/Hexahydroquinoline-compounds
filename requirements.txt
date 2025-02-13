@@ -4,4 +4,4 @@ matplotlib
 seaborn
 scipy
 biopython
-pip install -r requirements.txt
+
